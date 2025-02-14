@@ -4,7 +4,8 @@ const productos = [
   { nombre: "Pizza", precio: 8.5 },
   { nombre: "Refresco", precio: 2.0 },
   { nombre: "Papas Fritas", precio: 3.5 },
-  { nombre: "Helado", precio: 4.0 }
+  { nombre: "Helado", precio: 15.0 },
+  { nombre: "Donut", precio: 15.0}
 ];
 
 let carrito = [];
